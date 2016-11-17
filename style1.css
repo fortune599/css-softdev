@@ -1,3 +1,6 @@
 body { color: green; background-color: black }
-h1 { color: yellow; opacity: 0.5; background-color: white }
-a { color: pink; font-size: 32px }
+h1 { color: yellow; opacity: 0.5; background-color: white; text-align: center; text-transform: capitalize }
+h3 { letter-spacing: -1px }
+ul { font-size: 32px }
+a { color: pink; font-size: 12px }
+p { border: 2px dotted yellow }
