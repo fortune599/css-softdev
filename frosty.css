@@ -1,0 +1,4 @@
+h1{ background: linear-gradient(to top, blue, purple); color: white }
+html{ background-color: white; color: black }
+html:active{ background-color: black; color: green }
+h1:after,h3:after{ content: ", My Dudes" }
